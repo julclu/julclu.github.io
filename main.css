@@ -15,8 +15,8 @@ body {
 }
 
 .parent {
-  max-width: 80%;
-  width: 600px;
+  max-width: 90%;
+  width: 768px;
   margin: auto;
   font-weight: 400;
 }
@@ -27,6 +27,7 @@ body {
 }
 
 .container {margin-top: 50px;
+
 }
 
 p {
