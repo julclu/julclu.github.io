@@ -37,8 +37,16 @@ p {
   font-size: 13pt;
 }
 
+li {
+  font-size: 20pt;
+}
+
 a {
   text-decoration: none;
+}
+
+strong {
+
 }
 
 @media (max-width: 580px) {
